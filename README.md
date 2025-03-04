@@ -105,3 +105,8 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 nest g app workflows-service
 ```
 
+## CRIAR UM BIBLIOTECA
+
+```bash
+nest g lib common
+```
